@@ -1,0 +1,15 @@
+C:\Users\pa_lo\OneDrive\Área de Trabalho\challenge hard\challenge hard\bin\Debug\net6.0\challenge hard.exe
+C:\Users\pa_lo\OneDrive\Área de Trabalho\challenge hard\challenge hard\bin\Debug\net6.0\challenge hard.deps.json
+C:\Users\pa_lo\OneDrive\Área de Trabalho\challenge hard\challenge hard\bin\Debug\net6.0\challenge hard.runtimeconfig.json
+C:\Users\pa_lo\OneDrive\Área de Trabalho\challenge hard\challenge hard\bin\Debug\net6.0\challenge hard.dll
+C:\Users\pa_lo\OneDrive\Área de Trabalho\challenge hard\challenge hard\bin\Debug\net6.0\ref\challenge hard.dll
+C:\Users\pa_lo\OneDrive\Área de Trabalho\challenge hard\challenge hard\bin\Debug\net6.0\challenge hard.pdb
+C:\Users\pa_lo\OneDrive\Área de Trabalho\challenge hard\challenge hard\obj\Debug\net6.0\challenge hard.csproj.AssemblyReference.cache
+C:\Users\pa_lo\OneDrive\Área de Trabalho\challenge hard\challenge hard\obj\Debug\net6.0\challenge hard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pa_lo\OneDrive\Área de Trabalho\challenge hard\challenge hard\obj\Debug\net6.0\challenge hard.AssemblyInfoInputs.cache
+C:\Users\pa_lo\OneDrive\Área de Trabalho\challenge hard\challenge hard\obj\Debug\net6.0\challenge hard.AssemblyInfo.cs
+C:\Users\pa_lo\OneDrive\Área de Trabalho\challenge hard\challenge hard\obj\Debug\net6.0\challenge hard.csproj.CoreCompileInputs.cache
+C:\Users\pa_lo\OneDrive\Área de Trabalho\challenge hard\challenge hard\obj\Debug\net6.0\challenge hard.dll
+C:\Users\pa_lo\OneDrive\Área de Trabalho\challenge hard\challenge hard\obj\Debug\net6.0\ref\challenge hard.dll
+C:\Users\pa_lo\OneDrive\Área de Trabalho\challenge hard\challenge hard\obj\Debug\net6.0\challenge hard.pdb
+C:\Users\pa_lo\OneDrive\Área de Trabalho\challenge hard\challenge hard\obj\Debug\net6.0\challenge hard.genruntimeconfig.cache

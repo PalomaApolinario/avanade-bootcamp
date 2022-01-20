@@ -1,0 +1,15 @@
+C:\Users\pa_lo\OneDrive\Área de Trabalho\SucessorPar\SucessorPar\obj\Debug\net6.0\SucessorPar.csproj.AssemblyReference.cache
+C:\Users\pa_lo\OneDrive\Área de Trabalho\SucessorPar\SucessorPar\obj\Debug\net6.0\SucessorPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pa_lo\OneDrive\Área de Trabalho\SucessorPar\SucessorPar\obj\Debug\net6.0\SucessorPar.AssemblyInfoInputs.cache
+C:\Users\pa_lo\OneDrive\Área de Trabalho\SucessorPar\SucessorPar\obj\Debug\net6.0\SucessorPar.AssemblyInfo.cs
+C:\Users\pa_lo\OneDrive\Área de Trabalho\SucessorPar\SucessorPar\obj\Debug\net6.0\SucessorPar.csproj.CoreCompileInputs.cache
+C:\Users\pa_lo\OneDrive\Área de Trabalho\SucessorPar\SucessorPar\bin\Debug\net6.0\SucessorPar.exe
+C:\Users\pa_lo\OneDrive\Área de Trabalho\SucessorPar\SucessorPar\bin\Debug\net6.0\SucessorPar.deps.json
+C:\Users\pa_lo\OneDrive\Área de Trabalho\SucessorPar\SucessorPar\bin\Debug\net6.0\SucessorPar.runtimeconfig.json
+C:\Users\pa_lo\OneDrive\Área de Trabalho\SucessorPar\SucessorPar\bin\Debug\net6.0\SucessorPar.dll
+C:\Users\pa_lo\OneDrive\Área de Trabalho\SucessorPar\SucessorPar\bin\Debug\net6.0\ref\SucessorPar.dll
+C:\Users\pa_lo\OneDrive\Área de Trabalho\SucessorPar\SucessorPar\bin\Debug\net6.0\SucessorPar.pdb
+C:\Users\pa_lo\OneDrive\Área de Trabalho\SucessorPar\SucessorPar\obj\Debug\net6.0\SucessorPar.dll
+C:\Users\pa_lo\OneDrive\Área de Trabalho\SucessorPar\SucessorPar\obj\Debug\net6.0\ref\SucessorPar.dll
+C:\Users\pa_lo\OneDrive\Área de Trabalho\SucessorPar\SucessorPar\obj\Debug\net6.0\SucessorPar.pdb
+C:\Users\pa_lo\OneDrive\Área de Trabalho\SucessorPar\SucessorPar\obj\Debug\net6.0\SucessorPar.genruntimeconfig.cache
